@@ -10,9 +10,9 @@ A simple Flutter application that simulates rolling a dice. When the "Roll Dice"
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://i.imgur.com/your_image_id1.png" alt="Screenshot 1" width="300"/>
-  <img src="https://i.imgur.com/your_image_id2.png" alt="Screenshot 2" width="300"/>
+<p >
+  <img src="assets/images/dice-images/rd1.jpg" alt="Screenshot 1" width="250"/>
+  <img src="assets/images/dice-images/rd2.jpg" alt="Screenshot 2" width="250"/>
 </p>
 
 
@@ -27,11 +27,11 @@ A simple Flutter application that simulates rolling a dice. When the "Roll Dice"
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/dice_roller_flutter.git
+    git clone https://github.com/aparnaprabhuu/Dice-Roller-App.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd dice_roller_flutter
+    cd Dice-Roller-App
     ```
 3. Install dependencies:
     ```sh
