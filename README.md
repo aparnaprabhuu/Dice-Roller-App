@@ -10,14 +10,12 @@ A simple Flutter application that simulates rolling a dice. When the "Roll Dice"
 
 ## Screenshots
 
-![rd1](https://github.com/user-attachments/assets/3b92db65-aa7f-4355-add6-7ea9862ea511) ,
-![rd2](https://github.com/user-attachments/assets/23a4027d-3b9c-4f8b-9ade-069d024101a6)
-
 <p align="center">
-  <img src=" ![rd1](https://github.com/user-attachments/assets/adaa6121-534e-47ea-b828-d5b269d6dac9)
- " alt="Screenshot 1" width="300"/>
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300"/>
+  <img src="https://i.imgur.com/your_image_id1.png" alt="Screenshot 1" width="300"/>
+  <img src="https://i.imgur.com/your_image_id2.png" alt="Screenshot 2" width="300"/>
 </p>
+
+
 ## Getting Started
 
 ### Prerequisites
